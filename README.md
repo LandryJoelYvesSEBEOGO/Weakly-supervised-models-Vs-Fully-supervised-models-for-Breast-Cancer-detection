@@ -1,4 +1,5 @@
 ![Architecture Semi supervised learning](Architecture_Semi_supervised_learning.jpg)
+<img src="Architecture Semi supervised learning.jpg" alt="Texte alternatif" width="500">
 # Weakly-supervised-models-Vs-Fully-supervised-models-for-Breast-Cancer-detection
 
 This research aims to explore and develop a weakly supervised DL model that detects breast cancer lesions in ultrasound images.
