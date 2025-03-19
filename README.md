@@ -4,6 +4,7 @@ This research aims to explore and develop a weakly supervised DL model that dete
 
  <img src="Architecture Semi supervised learning.jpg" alt="Texte alternatif" width="1000">
  
+ <img src="breast image dataset.png" alt="Texte alternatif" width="1000">
  ## 1. Specific Objectives
   (a) To collect and curate both local and open breast ultrasound datasets.
   (b) To develop a weakly supervised DL model that detects breast cancer lesions in breast ultrasound images.
