@@ -2,7 +2,7 @@
 
 This research aims to explore and develop a weakly supervised DL model that detects breast cancer
  lesions in ultrasound images.
- 1.3.2 Specific Objectives
+ ## 1.3.2 Specific Objectives
  (a) To collect and curate both local and open breast ultrasound datasets.
  (b) To develop a weakly supervised DL model that detects breast cancer lesions in breast ultra
 sound images.
