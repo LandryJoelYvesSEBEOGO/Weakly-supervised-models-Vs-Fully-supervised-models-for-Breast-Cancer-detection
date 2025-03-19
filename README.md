@@ -1,8 +1,8 @@
 # Weakly-supervised-models-Vs-Fully-supervised-models-for-Breast-Cancer-detection
 
-This research aims to explore and develop a weakly supervised DL model that detects breast cancer
- lesions in ultrasound images.
- ![Projet Architecture and results](Architecture Semi supervised learning.jpg)
+This research aims to explore and develop a weakly supervised DL model that detects breast cancer lesions in ultrasound images.
+
+ ![Project Architecture and Results](Architecture_Semi_supervised_learning.jpg)
  
  ## 1. Specific Objectives
   (a) To collect and curate both local and open breast ultrasound datasets.
