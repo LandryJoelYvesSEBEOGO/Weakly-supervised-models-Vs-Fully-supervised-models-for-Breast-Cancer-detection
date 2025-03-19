@@ -21,3 +21,9 @@ nosing breast abnormalities on ultrasound images, this research has the potentia
  the diagnostic process more efficient and accurate, potentially reducing the workload and
  decision-making burden on radiologists.
 
+ ##  Deep learning models
+- Resnet 50
+- VGG19
+- YOLOV8 Classification model
+- YOLOV8 Detection
+
